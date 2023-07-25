@@ -14,7 +14,7 @@ export default (props) => {
     <div className="app">
       <Logo />
       <Nav />
-      <Home></Home>
+      <Home />
       <Footer />
     </div>
   );
