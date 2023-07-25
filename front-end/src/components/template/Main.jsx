@@ -6,7 +6,7 @@ import React from "react";
 export default (props) => {
   return (
     <React.Fragment>
-      <Header />
+      <Header {...props} />
 
       <main className="content">Conteúdo</main>
     </React.Fragment>
