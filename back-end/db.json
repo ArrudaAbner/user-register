@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Ana Silveira",
       "email": "asilveira@cod3r.com.br"
+    },
+    {
+      "name": "Abner",
+      "email": "123",
+      "id": 3
     }
   ]
 }
